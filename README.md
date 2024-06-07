@@ -1,0 +1,1 @@
+I have used Python code to manipulate my bank transaction data. The code involves connecting to SQL, creating tables, CVS data processing and sorting and filtering data. Additionally, making it more complex I’ve added error handling, logging and data validation.
